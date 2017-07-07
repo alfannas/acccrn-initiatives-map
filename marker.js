@@ -1,4 +1,3 @@
-var marker =
 {
   "type": "FeatureCollection",
   "features": [
@@ -129,4 +128,4 @@ var marker =
       }
     }
   ]
-};
+}
